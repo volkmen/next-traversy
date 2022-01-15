@@ -1,0 +1,9 @@
+{
+  "name": "next-traversy",
+  "version": "1.0.0",
+  "description": "practise next",
+  "main": "index.js",
+  "repository": "https://github.com/volkmen/next-traversy.git",
+  "author": "Yaroslav Vovk <yaroslav.vovk@powtoon.com>",
+  "license": "MIT"
+}
